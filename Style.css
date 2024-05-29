@@ -1,0 +1,24 @@
+body{
+    background-color: #5A18C9;
+}
+.titulo{
+    color: #905BEC;
+    background-color: #300D6E;
+}
+
+.paizao{
+    display: flex;
+    justify-content: center;
+}
+
+.p{
+    display: flex;
+    align-items: center;
+    color: #190934;
+    background-color:#300D6E;
+}
+
+.titulo2{
+    display: flex;
+    align-items: end;background-color:#300D6E ;
+}
