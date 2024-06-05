@@ -16,10 +16,18 @@ body{
     align-items: center;
     color: white;
     background-color:none ;
+    border: 10px;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: #300D6E;
 }
 
 .titulo2{
     display: flex;
     position: absolute; right: center;
     color: white;
+    border: 3px, 3px, 3px, 3px;
+    border-radius: 15px;
+    border: groove;
+    border-color:#300D6E;
 }
